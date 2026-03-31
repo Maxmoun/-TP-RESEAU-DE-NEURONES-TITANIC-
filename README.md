@@ -1,4 +1,4 @@
-Ce travail pratique presentenune implémentation d'un 
+Ce travail pratique presente  une implémentation d'un 
 réseau de neurones artificiel construit from scratch en NumPy ; L'objectif est de prédire 
 la survie des passagers du Titanic à partir de leurs caractéristiques sociodémographiques. 
 
